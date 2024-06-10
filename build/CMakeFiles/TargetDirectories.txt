@@ -1,9 +1,0 @@
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/uninstall.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/astro_navigation_uninstall.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/test.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/edit_cache.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/rebuild_cache.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/list_install_components.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/install.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/install/local.dir
-/home/branimir/lab2_ws/src/astro_navigation/build/CMakeFiles/install/strip.dir
