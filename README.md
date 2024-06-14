@@ -5,7 +5,7 @@
     Make sure you are inside **astro_ws/src** folder (generally in **src** folder of your workspace).
     ```bash
     cd ~/astro_ws/src
-    git clone -b ros2-humble https://github.com/CRTA-Lab/astro_navigation.git
+    git clone -b main https://github.com/CRTA-Lab/astro_navigation.git
     ```
 2. **Installing dependencies**
 
