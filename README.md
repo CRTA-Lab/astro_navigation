@@ -71,3 +71,8 @@
     ```
 
 3. **Starting Localization**
+Make sure you your workspace is sourced, and then launch _slam_
+    ```bash
+    ros2 launch astro_navigation localization.launch.py
+    ```
+Drive your robot around so 2D map can be created.
