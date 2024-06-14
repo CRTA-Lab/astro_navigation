@@ -1,6 +1,6 @@
-## Install and compile astro_navigation package
+## Install and compile _astro_navigation_ package
 
-1. **Clone astro_navigation package from GitHub**
+1. **Clone _astro_navigation_ package from GitHub**
 
     Make sure you are inside **astro_ws/src** folder (generally in **src** folder of your workspace).
     ```bash
@@ -16,7 +16,7 @@
     cd ~/astro_ws/
     rosdep install --from-paths src -y --ignore-src
     ```
-3. **Building astro_navigation package**
+3. **Building _astro_navigation_ package**
 
     Make sure you are still in your main workspace folder, in this example **~/astro_ws/**
     ```bash
