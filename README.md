@@ -71,8 +71,10 @@
     ```
 
 3. **Starting Localization**
-    Make sure you your workspace is sourced, and then launch _slam_
+    Make sure you your workspace is sourced, and then launch _slam_toolbox_online_async.launch.py_
     ```bash
-    ros2 launch astro_navigation localization.launch.py
+    ros2 launch astro_navigation slam_toolbox_online_async.launch.py
     ```
     Drive your robot around so 2D map can be created.
+    After 2D map is created, save it as e.g. crta_lab
+    Start your locali
